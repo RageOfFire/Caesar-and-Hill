@@ -442,7 +442,6 @@
             this.Hill.ResumeLayout(false);
             this.Hill.PerformLayout();
             this.parrotGroupBox2.ResumeLayout(false);
-            this.parrotGroupBox2.PerformLayout();
             this.ResumeLayout(false);
 
         }
